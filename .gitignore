@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+*.iml
+.idea/
+javascript/node_modules/
+*.pyc
+.DS_Store
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings/
+solutions
+.vscode
