@@ -5,7 +5,9 @@
  
 ## Instructions
 
-First step, you need to generate the Makefile to compile. This can be done executing:
+This program requires C++ (standard language 11) and CMake 3.6.x.
+
+For compilation and execution, the first step is to generate the Makefile to compile. This can be done by executing:
 
 ```
 cmake .
